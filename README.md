@@ -10,6 +10,7 @@ This project is a automated gate system designed to help persons with disabiliti
 
 
 Instructions for setting up IoT devices and cloud services.
+
 Step 1: Gather Hardware Components
 Collect the necessary components:
 Arduino board (e.g., Arduino Uno)
