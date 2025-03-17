@@ -18,12 +18,14 @@ Bluetooth module (e.g., HC-05)
 Sensors (e.g., water level sensor)
 Power supply
 Jumper wires and breadboard (if needed)
+
 Step 2: Hardware Setup
 Wiring:
 Connect the motor driver to the Arduino.
 Attach the Bluetooth module to the Arduino's TX/RX pins.
 Connect the water level sensor to the appropriate analog pin on the Arduino.
 Ensure all power supply connections are secure.
+
 Step 3: Software Setup
 Install Arduino IDE:
 Download and install the Arduino IDE.
@@ -37,6 +39,7 @@ Bluetooth communication setup
 Motor control logic based on Bluetooth commands
 Data logging functionality to record gate activity
 Upload this code to the Arduino.
+
 Step 4: Cloud Integration
 Choose a Cloud Platform:
 Select a cloud service (e.g., AWS IoT, Google Cloud IoT, or Azure IoT).
@@ -47,6 +50,7 @@ Obtain necessary credentials (device ID, secret key).
 Data Streaming:
 Implement MQTT or HTTP protocol in your Arduino code to send data to the cloud.
 Utilize the cloud service's SDK or API for communication.
+
 Step 5: Mobile Application Development
 Select Development Framework:
 Choose a framework like Flutter or React Native for cross-platform compatibility.
@@ -54,11 +58,13 @@ Implement App Functionality:
 Develop features for remote gate control (open/close).
 Set up notifications for gate status changes.
 Integrate a data logging display for users to track activity.
+
 Step 6: Testing and Validation
 Conduct thorough testing of the entire system:
 Ensure the gate can be opened and closed via the app.
 Verify Bluetooth communication between the app and Arduino.
 Check that data is accurately logged and displayed in the cloud.
+
 Step 7: Deployment
 Install the system at the desired location.
 Ensure all components are securely mounted and easily accessible.
