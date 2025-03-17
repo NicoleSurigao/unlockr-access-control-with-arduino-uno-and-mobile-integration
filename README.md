@@ -9,6 +9,12 @@ This project is a automated gate system designed to help persons with disabiliti
 3. Simple Design and Integration - The system will be easy to set up, making gate operation hassle-free.
 4. Data Logging - The system will record and track the past gates' activity and usage.
 
+Technologies Used:
+1. Figma: A collaborative design tool to create UI/UX designs for your mobile app and prototypes for the user interface.
+2. Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase, perfect for creating a custom mobile interface for your Arduino project.
+3. Arduino IDE: For programming the Arduino board.
+4. Firebase: For cloud storage and real-time database interactions, useful for more complex functionalities.
+
 
 Instructions for setting up IoT devices and cloud services.
 
