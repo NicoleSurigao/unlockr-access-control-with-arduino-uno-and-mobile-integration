@@ -46,13 +46,14 @@ Now, you can run the application using the following command: flutter run
 
 
 Step 6: Troubleshooting
-  - If you encounter any issues, ensure that:
-        > All Flutter dependencies are installed correctly.
-        > The device or emulator is recognized by Flutter. You can check this using: flutter devices
-        >  Make sure to check the console for any error messages during the run process.
+If you encounter any issues, ensure that:
+- All Flutter dependencies are installed correctly.
+- The device or emulator is recognized by Flutter. You can check this using: flutter devices
+- Make sure to check the console for any error messages during the run process.
 
 
 Instructions for setting up IoT devices and cloud services.
+
 Step 1: Gather Hardware Components
 Collect the necessary components:
 Arduino board (e.g., Arduino Uno)
