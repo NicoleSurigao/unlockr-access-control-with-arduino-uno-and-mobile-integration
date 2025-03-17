@@ -3,19 +3,19 @@
 
 This project is a automated gate system designed to help persons with disabilities (PWDs) open and close their gates easily. It uses an Arduino Uno to control the gate and a Flutter mobile app to operate it. Instead of struggling with heavy gates, users can simply press a button in the app to open or close the gate remotely. The system works by connecting the Arduino to a hinge that moves the gate. The app communicates with the Arduino through Bluetooth, making it convenient to use. 
 
-**Technologies Used:
-**1. Figma: A collaborative design tool to create UI/UX designs for your mobile app and prototypes for the user interface.
+**Technologies Used:**
+1. Figma: A collaborative design tool to create UI/UX designs for your mobile app and prototypes for the user interface.
 2. Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase, perfect for creating a custom mobile interface for your Arduino project.
 3. Arduino IDE: For programming the Arduino board.
 4. Firebase: For cloud storage and real-time database interactions, useful for more complex functionalities.
 
-** Features:**
+ **Features:**
 1. Accessible for PWDs - The system will be specifically designed for persons who are having difficulty with their disabilities on a daily basis. This will aid them to open and close doors easily.
 2. Enhanced Security Convenience - It eliminates the need for physical keys and becomes more convenient
 3. Simple Design and Integration - The system will be easy to set up, making gate operation hassle-free.
 4. Data Logging - The system will record and track the past gates' activity and usage.
 
-Installation Instructions:
+**Installation Instructions:**
 1. Install Flutter SDK - Follow the official Flutter installation guide to install Flutter on your machine.
 2. Install Git - Ensure you have Git installed for cloning the repository.
 3. Set Up an Editor - Use an IDE like Visual Studio Code or Android Studio with Flutter and Dart plugins installed.
@@ -55,7 +55,7 @@ If you encounter any issues, ensure that:
 - Make sure to check the console for any error messages during the run process.
 
 
-Instructions for setting up IoT devices and cloud services.
+**Instructions for setting up IoT devices and cloud services.**
 
 Step 1: Gather Hardware Components
 Collect the necessary components:
