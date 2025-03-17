@@ -69,9 +69,11 @@ Check that data is accurately logged and displayed in the cloud.
 Step 7: Deployment
 Install the system at the desired location.
 Ensure all components are securely mounted and easily accessible.
+
 Step 8: User Training
 Provide instructions to users on how to use the mobile application.
 Ensure users understand how to control the gate and view logs.
+
 Step 9: Maintenance and Support
 Regularly check the system for updates and ensure the cloud service operates smoothly.
 Provide ongoing support for troubleshooting any issues that may arise.
