@@ -25,12 +25,15 @@ Step 1: Clone the Repository
 1. Open your terminal (Command Prompt, PowerShell, or Terminal).
 2. Navigate to the directory where you want to clone the project.
 3. Run the following command to clone the GitHub or GitLab repository:
-      git clone https://github.com/NicoleSurigao/unlockr-access-control-with-arduino-uno-and-mobile-integration.git
+   
+   git clone https://github.com/NicoleSurigao/unlockr-access-control-with-arduino-uno-and-mobile-integration.git
 
 Step 2: Navigate to the Project Directory
+
 Change into the project directory: cd unlockr-access-control-with-arduino-uno-and-mobile-integration 
 
 Step 3: Install Dependencies
+
 Run the following command to install the necessary dependencies:  flutter pub get
 
 Step 4: Connect Your Device or Start an Emulator
