@@ -1,4 +1,4 @@
-# unlockr-access-control-with-arduino-uno-and-mobile-integration
+ # unlockr-access-control-with-arduino-uno-and-mobile-integration
 Project Title: UNLOCKR - Access Control with Arduino Uno and Mobile Integration 
 
 This project is a automated gate system designed to help persons with disabilities (PWDs) open and close their gates easily. It uses an Arduino Uno to control the gate and a Flutter mobile app to operate it. Instead of struggling with heavy gates, users can simply press a button in the app to open or close the gate remotely. The system works by connecting the Arduino to a hinge that moves the gate. The app communicates with the Arduino through Bluetooth, making it convenient to use. 
@@ -19,6 +19,38 @@ Installation Instructions:
 1. Install Flutter SDK - Follow the official Flutter installation guide to install Flutter on your machine.
 2. Install Git - Ensure you have Git installed for cloning the repository.
 3. Set Up an Editor - Use an IDE like Visual Studio Code or Android Studio with Flutter and Dart plugins installed.
+
+
+Step 1: Clone the Repository
+1. Open your terminal (Command Prompt, PowerShell, or Terminal).
+2. Navigate to the directory where you want to clone the project.
+3. Run the following command to clone the GitHub or GitLab repository:
+      git clone https://github.com/NicoleSurigao/unlockr-access-control-with-arduino-uno-and-mobile-integration.git
+
+Step 2: Navigate to the Project Directory
+Change into the project directory: cd unlockr-access-control-with-arduino-uno-and-mobile-integration 
+
+Step 3: Install Dependencies
+Run the following command to install the necessary dependencies:  flutter pub get
+
+Step 4: Connect Your Device or Start an Emulator
+1. Connect a Physical Device
+   - If you have a physical device, enable developer mode and USB debugging.
+   - Connect your device to your computer via USB.
+2. Start an Emulator:
+   - If you prefer to use an emulator, start it from your IDE or by running: 
+                  flutter emulators --launch <emulator_id>
+
+Step 5: Run the Application
+Now, you can run the application using the following command: flutter run
+
+
+Step 6: Troubleshooting
+  - If you encounter any issues, ensure that:
+        > All Flutter dependencies are installed correctly.
+        > The device or emulator is recognized by Flutter. You can check this using: flutter devices
+        >  Make sure to check the console for any error messages during the run process.
+
 
 Instructions for setting up IoT devices and cloud services.
 Step 1: Gather Hardware Components
