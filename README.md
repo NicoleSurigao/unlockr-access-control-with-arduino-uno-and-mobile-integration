@@ -27,6 +27,7 @@ Step 1: Clone the Repository
 3. Run the following command to clone the GitHub or GitLab repository:
    
    git clone https://github.com/NicoleSurigao/unlockr-access-control-with-arduino-uno-and-mobile-integration.git
+   gitlab https://gitlab.com/sotsagam/unlockr-access-control-with-arduino-uno-and-mobile-integration/-/tree/c9e3efbab55577c0004aa8bbf705b96311d37ca4/
 
 Step 2: Navigate to the Project Directory
 
