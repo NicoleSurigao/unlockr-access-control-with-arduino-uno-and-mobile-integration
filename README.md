@@ -124,3 +124,5 @@ Ensure users understand how to control the gate and view logs.
 Step 9: Maintenance and Support
 Regularly check the system for updates and ensure the cloud service operates smoothly.
 Provide ongoing support for troubleshooting any issues that may arise.
+
+Downlaod Code: https://drive.google.com/file/d/1ijS0RocpWAUGs5060JZNr72IfWPwvXY1/view?usp=sharing
